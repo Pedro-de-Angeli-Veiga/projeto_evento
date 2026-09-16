@@ -139,7 +139,7 @@ img.banner {
 }
 .imagens {
     display: flex;
-    flex-direction: column;
+    flex-direction: center;
     align-items: center;
     gap: 20px;
     flex-wrap: wrap;
