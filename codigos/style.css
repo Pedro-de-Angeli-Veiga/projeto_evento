@@ -127,6 +127,8 @@ img.banner {
     margin: 20px auto;
 }
 .galeria {
+    display: flex;
+    flex-direction: center;
     width: min(90vw, 900px);
     margin: 20px auto;
 }
